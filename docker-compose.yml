@@ -1,0 +1,9 @@
+services:
+  google-docs-mcp-community:
+    build: .
+    container_name: google-docs-mcp-community
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3033:3000"
+    mem_limit: 512m
+    mem_reservation: 256m
