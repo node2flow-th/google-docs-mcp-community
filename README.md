@@ -156,4 +156,13 @@ Index N    → End of body (from gdoc_get response)
 
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE)
+
+Copyright (c) 2026 [Node2Flow](https://node2flow.net)
+
+## Links
+
+- [npm Package](https://www.npmjs.com/package/@node2flow/google-docs-mcp)
+- [Google Docs API](https://developers.google.com/docs/api)
+- [MCP Protocol](https://modelcontextprotocol.io/)
+- [Node2Flow](https://node2flow.net)
