@@ -1,0 +1,10 @@
+name = "google-docs-mcp-community"
+main = "dist/worker.js"
+compatibility_date = "2025-01-01"
+
+[placement]
+mode = "smart"
+
+routes = [
+  { pattern = "google-docs-mcp-community.node2flow.net", custom_domain = true }
+]
