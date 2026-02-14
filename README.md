@@ -4,7 +4,7 @@
 [![npm version](https://img.shields.io/npm/v/@node2flow/google-docs-mcp.svg)](https://www.npmjs.com/package/@node2flow/google-docs-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-MCP server for **Google Docs** — create, read, edit, format, and manage documents through 25 tools via the Model Context Protocol.
+MCP server for **Google Docs** — create, read, edit, format, and manage documents through 26 tools via the Model Context Protocol.
 
 ## Quick Start
 
@@ -46,7 +46,7 @@ POST https://google-docs-mcp-community.node2flow.net/mcp?GOOGLE_CLIENT_ID=xxx&GO
 
 ---
 
-## Tools (25)
+## Tools (26)
 
 ### Document (2)
 
