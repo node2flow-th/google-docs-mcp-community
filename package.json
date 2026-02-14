@@ -1,6 +1,6 @@
 {
   "name": "@node2flow/google-docs-mcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP server for Google Docs — create, read, edit, format, and manage documents through 26 tools",
   "type": "module",
   "main": "dist/index.js",
